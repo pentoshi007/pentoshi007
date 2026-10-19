@@ -135,7 +135,10 @@ AI job aggregator: upload a resume, get ranked matches from 8 job sources, track
 ### 🛡️ Security credentials
 
 <p align="center">
-  <a href="https://tryhackme.com/p/pentoshi"><img src="https://img.shields.io/badge/TryHackMe-Top%201%25-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Top 1%" /></a>
+  <a href="https://tryhackme.com/p/pentoshi"><img src="./assets/tryhackme-badge.png" width="400" alt="TryHackMe profile: pentoshi, Top 1%" /></a>
+</p>
+
+<p align="center">
   <a href="https://tryhackme.com/certificate/THM-K2VTBO8L3Y"><img src="https://img.shields.io/badge/THM-SOC%20Level%201-1f2937?style=for-the-badge&logo=tryhackme&logoColor=white" alt="SOC Level 1" /></a>
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-O4LIYWHHVA.pdf"><img src="https://img.shields.io/badge/THM-Jr%20Penetration%20Tester-1f2937?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Junior Penetration Tester" /></a>
   <a href="https://tryhackme.com/certificate/THM-OITJNUE8SG"><img src="https://img.shields.io/badge/THM-Web%20App%20Pentesting-1f2937?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Web Application Pentesting" /></a>
