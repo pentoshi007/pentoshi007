@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Aniket%20Pandey&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Security%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20SOC%20%26%20Pentesting&descSize=16&descAlignY=58" alt="Aniket Pandey" width="100%" />
+  <img src="./assets/header.svg" alt="Aniket Pandey" width="100%" />
 </p>
 
 <p align="center">
@@ -172,5 +172,5 @@ AI job aggregator: upload a resume, get ranked matches from 8 job sources, track
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0e7490,100:0f172a&height=110&section=footer" alt="" width="100%" />
+  <img src="./assets/footer.svg" alt="" width="100%" />
 </p>
