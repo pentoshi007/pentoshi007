@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Aniket%20Pandey&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Security%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Open-Source%20Tool%20Builder&descSize=16&descAlignY=58" alt="Aniket Pandey" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Aniket%20Pandey&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Security%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20SOC%20%26%20Pentesting&descSize=16&descAlignY=58" alt="Aniket Pandey" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://aniketpandey.website">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&lines=I+build+tools+for+the+terminal.;AI+agents+%E2%80%A2+offensive+security+%E2%80%A2+dev+tooling;Creator+of+clai+%E2%80%94+100k%2B+npm+downloads;TryHackMe+Top+1%25+%E2%80%A2+SOC+%26+Pentesting" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&lines=Security+Engineer+%E2%80%A2+Full-Stack+Developer;Threat+detection+%E2%80%A2+SOC+%E2%80%A2+Web+app+pentesting;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Microservices;TryHackMe+Top+1%25" alt="Typing intro" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 ### 👋 About me
 
-I sit at the intersection of **security** and **software engineering**: I break things to understand them, then build tools that make the job faster for everyone else.
+I sit at the intersection of **security** and **software engineering**: I hunt threats, test web applications for vulnerabilities, and build secure, production-ready full-stack applications.
 
 - 🛠️ Building **[clai](https://github.com/pentoshi007/clai)**, an open-source AI coding & pentesting agent for the terminal
 - 🛡️ Blue + red team: SOC pipelines on Microsoft Sentinel, KQL detections mapped to MITRE ATT&CK, web app pentesting
